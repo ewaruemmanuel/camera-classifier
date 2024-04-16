@@ -1,12 +1,3 @@
-'''
-Camera Classifier v0.1 Alpha
-Copyright (c) NeuralNine
-
-Instagram: @neuralnine
-YouTube: NeuralNine
-Website: www.neuralnine.com
-'''
-
 from sklearn.svm import LinearSVC
 import numpy as np
 import cv2 as cv
